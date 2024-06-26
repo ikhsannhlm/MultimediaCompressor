@@ -14,7 +14,7 @@ def sidebar():
             """
             - Muhammad Ikhsan Nurhalim - 1217050097
             - Khafka Fadilah Wibawa Nurdiansyah - 1217050072
-            - Ansyarullah - 121705000
+            - Ansyarullah - 1217050017
             """
         )
 
